@@ -1,0 +1,75 @@
+
+header{
+    width: 1350px !important;
+    margin: 0 auto;
+}
+
+.urlConteiner {
+    width: 600px;
+    height: 25px;
+    margin-top: 75px;
+    margin-left: 600px;
+    padding: 10px 0;  
+    border-radius: 5px; 
+    margin-bottom: 15px;
+    transition: 0.3s;
+    column-gap: 15px;
+    word-spacing: 5px; 
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    background-color: #fff;
+}
+
+.urlConteiner a {
+    color: #fff;
+    text-decoration: none; 
+}
+
+.Home{
+    margin-top: -40px;
+    height: 23px;
+    width: 40px;
+    color: white;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.Like{
+    margin-top: -40px;
+    height: 23px;
+    width: 100px;
+}
+
+.Personal{
+    margin-top: -40px;
+    height: 23px;
+    width: 150px;
+}
+
+.Setting{
+    margin-top: -40px;
+    height: 23px;
+    width: 100px;
+}
+
+.Card{
+    margin-top: -40px;
+}
+
+.Search{
+    margin-top: -40px;
+}
+
+.CardIcon {
+    animation-duration: 1s;
+    font-size: 13px;
+    color: #fff;
+  }
+  
+.SearchIcon{
+    animation-duration: 1s;
+    font-size: 13px;
+    color: #fff;
+}
